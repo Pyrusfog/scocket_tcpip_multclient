@@ -1,0 +1,3 @@
+/home/franciscosilva/CLionProjects/servertcp/cmake-build-debug/CMakeFiles/servertcp.dir
+/home/franciscosilva/CLionProjects/servertcp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/franciscosilva/CLionProjects/servertcp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

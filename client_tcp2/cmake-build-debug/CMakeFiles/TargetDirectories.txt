@@ -1,0 +1,3 @@
+/home/franciscosilva/CLionProjects/client_tcp2/cmake-build-debug/CMakeFiles/client_tcp2.dir
+/home/franciscosilva/CLionProjects/client_tcp2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/franciscosilva/CLionProjects/client_tcp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
